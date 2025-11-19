@@ -4,27 +4,30 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 
 🎓 Education
 
-BS Computer Science
+--BS Computer Science
 
-New Era University
+--New Era University
 
-2024–Present
+--2024–Present
+
 
 📜 Certification
 
-SQL and Relational Databases 101
+--SQL and Relational Databases 101
+
 
 🛠 Skill Sets
 
-Programming: Java, JavaScript
+--Programming: Java, JavaScript
 
-Databases: SQL
+--Databases: SQL
 
-Tools: Lucidchart, Eclipse, HTML
+--Tools: Lucidchart, Eclipse, HTML
+
 
 📬 Let’s Connect!
 
-Email: sarmientoredge11@gmail.com
+--Email: sarmientoredge11@gmail.com
 
 <!--
 **sarmientoredge11/sarmientoredge11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
