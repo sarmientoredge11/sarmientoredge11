@@ -5,7 +5,9 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 🎓 Education
 
 BS Computer Science
+
 New Era University
+
 2024–Present
 
 📜 Certification
@@ -15,7 +17,9 @@ SQL and Relational Databases 101
 🛠 Skill Sets
 
 Programming: Java, JavaScript
+
 Databases: SQL
+
 Tools: Lucidchart, Eclipse, HTML
 
 📬 Let’s Connect!
