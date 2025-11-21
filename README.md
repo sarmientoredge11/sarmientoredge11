@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a dedicated BS Computer Science student with 
 
 ## 📜 Certification
 
-  * SQL and Relational Databases 101
+  * SQL and Relational Databases 101: https://courses.cognitiveclass.ai/certificates/a8bb5e3a79654b85809200a07765e8d6
 
 
 ## 🛠 Skill Sets
