@@ -2,43 +2,25 @@
 
 # Hi there, I'm Redge Rainier Sarmiento 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=BS+Computer+Science+Student;Exploring+Programming+%26+Databases;Building+Meaningful+%26+Efficient+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=BS+Computer+Science+Student;Exploring+Programming+%26+Databases;Building+Meaningful+%26+Efficient+Solutions)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-sarmientoredge11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarmientoredge11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sarmientoredge11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarmientoredge11)
 
 </div>
 
----
-
 ### 🧑‍💻 About Me
-
-I'm a dedicated **BS Computer Science** student at **New Era University** (2024–Present) with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and cloud tools to build meaningful and efficient solutions.
+I'm a **BS Computer Science** student at **New Era University** (`2024 – Present`) with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and cloud tools to build meaningful and efficient solutions.
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-**Languages & Web**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Databases & Cloud**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Tools & IDEs**
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-F97316?style=for-the-badge&logo=lucid&logoColor=white)
-
----
-
-### 🎓 Education
-
-| Institution | Program | Period |
-| :--- | :--- | :---: |
-| **New Era University** | BS Computer Science | 2024 – Present |
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Web** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Databases & Cloud** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **Tools & IDEs** | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-F97316?style=flat-square&logo=lucid&logoColor=white) |
 
 ---
 
@@ -55,9 +37,7 @@ I'm a dedicated **BS Computer Science** student at **New Era University** (2024�
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-![Redge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarmientoredge11&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmientoredge11&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=sarmientoredge11&show_icons=true&theme=tokyonight&hide_border=true" alt="Redge's GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarmientoredge11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
